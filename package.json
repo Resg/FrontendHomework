@@ -1,0 +1,23 @@
+{
+  "name": "frontendhomework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "static-livereload --path static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Resg/FrontendHomework.git"
+  },
+  "author": "Resg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Resg/FrontendHomework/issues"
+  },
+  "homepage": "https://github.com/Resg/FrontendHomework#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "static-livereload": "^0.1.4"
+  }
+}
